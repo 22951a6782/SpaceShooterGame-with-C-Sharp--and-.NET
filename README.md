@@ -48,7 +48,7 @@ SpaceShooterGame/
 - Implement different weapons for the player.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://github.com/22951a6782/SpaceShooterGame/blob/main/LICENSE).
 
 ## Contributing
 1. Fork the repository.
@@ -60,4 +60,4 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 For any questions, contact:
 - **Your Name** - peralapranitha17@gmail.com
-- GitHub: [pranitha perala](https://github.com/)
+- GitHub: [https://github.com/](https://github.com/)
